@@ -1,1 +1,1 @@
-# Logic-Gate-Simulator
+# logic gate simulatin web application
